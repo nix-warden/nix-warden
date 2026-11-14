@@ -166,12 +166,15 @@ I write about digital forensics, the practical limits of AI in security, and har
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nix-warden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="NixWarden's GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nix-warden&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nix-warden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=495" alt="NixWarden's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nix-warden&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nix-warden&layout=compact&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nix-warden&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub Streak" />
 </div>
 
 ---
